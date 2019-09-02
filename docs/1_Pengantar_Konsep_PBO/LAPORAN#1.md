@@ -41,7 +41,8 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
     B. Data yang digunakan dalam bentuk private hanya bisa di akses oleh fungsi lokasi, sehingga tidak perlu khawatir untuk berpengaruh pada fungsi lainnya.
     c. Dapat menambahkan fitur pada class tanpa mengedit class asal.
 4. Merek, kecepatan dan gear
-5. ![image](img/PERTANYAAN5.png)
+5. 
+![image](img/PERTANYAAN5.png)
 6. Karena class sepedagunung.java sudah extend atau sudah diwarisi oleh class sepeda.
 
 ## Tugas
