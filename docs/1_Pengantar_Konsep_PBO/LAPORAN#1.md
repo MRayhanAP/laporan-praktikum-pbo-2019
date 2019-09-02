@@ -50,7 +50,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![image](img/pbo1.PNG)
+![image](img/PBO1.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720121Rayhan.java)
 
