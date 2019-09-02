@@ -20,7 +20,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ![image](img/PBO1.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720121Rayhan.java)
 
 ### Percobaan 2
 
@@ -28,9 +28,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![Image](img/PBO2.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720121Rayhan.java)
 
 ## Pertanyaan
 
@@ -41,7 +41,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
     B. Data yang digunakan dalam bentuk private hanya bisa di akses oleh fungsi lokasi, sehingga tidak perlu khawatir untuk berpengaruh pada fungsi lainnya.
     c. Dapat menambahkan fitur pada class tanpa mengedit class asal.
 4. Merek, kecepatan dan gear
-5. 
+5. ![image](img/PERTANYAAN5.png)
 6. Karena class sepedagunung.java sudah extend atau sudah diwarisi oleh class sepeda.
 
 ## Tugas
