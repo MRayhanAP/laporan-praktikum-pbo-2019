@@ -8,7 +8,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Terkadang error saat melakukan running coding ternyata kesalahan terdapat di atribut karena salah pengetikan dan peletakan
 
 ## Percobaan
 
@@ -37,9 +37,13 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 1. Object, Class, Inheritance, Polimorfisme, Enkapulasi.
 2. Object merupakan rangakaian dalam program yang terdapat state yang atributnya dari objek itu sendiri dan behavior. Perbedaan dengan Class ialah prototype atau rancangan pada suatu objek.
 3. Kelebihan Pemrograman Berbasis Objek yaitu :
-    A. Dalam menggunakan sebuah class cukup sekali tidak perlu dituis berkali-kali.
-    B. Data yang digunakan dalam bentuk private hanya bisa di akses oleh fungsi lokasi, sehingga tidak perlu khawatir untuk berpengaruh pada fungsi lainnya.
-    c. Dapat menambahkan fitur pada class tanpa mengedit class asal.
+    
+A. Dalam menggunakan sebuah class cukup sekali tidak perlu dituis berkali-kali.
+    
+B. Data yang digunakan dalam bentuk private hanya bisa di akses oleh fungsi lokasi, sehingga tidak perlu khawatir untuk berpengaruh pada fungsi lainnya.
+    
+c. Dapat menambahkan fitur pada class tanpa mengedit class asal.
+
 4. Merek, kecepatan dan gear
 5. 
 ![image](img/PERTANYAAN5.png)
