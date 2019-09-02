@@ -14,9 +14,9 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+Didalam percobaan ini kita dapat mendemonstrasikan bagaimana membuat class, object
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+
 
 ![image](img/PBO1.png)
 
@@ -24,9 +24,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+Dalam percobaan ini kita membuat class SepedaGunung yang mana adalah turunan dari class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada sepeda gunung terdapat tipe suspensi.  Untuk itu kita tidak perlu membuat class Sepeda Gunung dari nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung. 
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+
 
 ![Image](img/PBO2.png)
 
@@ -47,9 +47,8 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+
 
 ![image](img/TUGAS.png)
 
@@ -57,7 +56,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Dari percobaan diatas, kita telah mendemonstrasikan bagaimana paradigma pemrograman berorientasi objek dan mengimplementasikannya kedalam program sederhana. 
 
 ## Pernyataan Diri
 
