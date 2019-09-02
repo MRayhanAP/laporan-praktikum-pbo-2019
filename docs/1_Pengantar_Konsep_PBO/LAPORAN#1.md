@@ -52,7 +52,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ![contoh screenshot](img/pbo1.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720121Rayhan.java)
 
 ## Kesimpulan
 
