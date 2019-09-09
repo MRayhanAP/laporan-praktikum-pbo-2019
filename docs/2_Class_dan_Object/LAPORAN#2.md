@@ -59,9 +59,9 @@ terdapat dua method yang sudah dibuat yaitu :
 
 Pada percobaan ke 2 adallah membuat program dengan class diagram yang sudah disediakan pada jobsheet, class diagram dari Mahasiswa yang berisi atribut nim dengan tipe data int, nama dengan tipe data String, alamat dengan tipe data String, kelas dengan tipe data String, Terdapat methode pada class diagram Mahasiswa  (tampilBiodata).
 
-![image](img/Percobaan2-1.PNG)
+![image](img/Percobaan2-1.png)
 
-![image](img/Percobaan2-2.PNG)
+![image](img/Percobaan2-2.png)
 
 Contoh link kode program pada class :
 [ini contoh link ke kode program](../../src/2_Class_dan_Object/Mahasiswa1841720121Ray.java)
