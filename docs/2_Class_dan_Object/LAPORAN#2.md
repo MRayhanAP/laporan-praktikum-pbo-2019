@@ -13,6 +13,8 @@
 
 ## Ringkasan Materi
 
+    Suatu class diagram pada java adalah rancangan dasar pada suatu pembuatan program. Pada praktikum dan tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah pada suatu studi kasus yang didalamnya tidak hanya menampilkan suatu inputan data saja namun, juga mengembalikan nilai perhitungan dari inputan data tersebut.
+
 ## Percobaan
 
 ### Percobaan 1
@@ -42,11 +44,11 @@ jawaban : Karyawan
 
    b. Atribut nama dengan tipe data String
 
-   c. Atribut jenisKelamin dengan tipe data String
+   c. Atribut gaji dengan tipe data double
 
    d. Atribut jabatan dengan tipe data String
 
-   e. Atribut gaji dengan tipe data double
+   e. Atribut jenisKelamin dengan tipe data String
 
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1 
 terdapat dua method yang sudah dibuat yaitu :
@@ -95,13 +97,27 @@ Kegunaan return adalah untuk mengembalikan nilai dari suatu method yang didalamn
    
     b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 
-    ![image](img/Percobaan3.PNG)
+    ![image](img/Tugas.png)
 
-2. Buatlah program dari class diagram yang sudah anda buat di no 
+2. Buatlah program dari class diagram yang sudah anda buat di no 1 
 
-    ![image](img/Percobaan3.PNG)
+    ![image](img/Tugas1.png)
 
-3. Program dari Class diagram Lingkaran
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/SewaVideoGame1841720121Ray.java)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/SewaVideoGameDemo1841720121Ray.java)
+
+3. Buatlah Program dari Class diagram Lingkaran
+
+    ![image](img/Tugas2.png)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/Lingkaran1841720121Ray.java)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/LingkaranTest1841720121Ray.java)
 
 4. Program Class diagram Barang
 
@@ -113,9 +129,13 @@ Kegunaan return adalah untuk mengembalikan nilai dari suatu method yang didalamn
     
             harga jual = harga dasar – (diskon x harga dasar)
 
-## Kesimpulan
+    ![image](img/Tugas3.png)
 
-Suatu class diagram pada java adalah rancangan dasar pada suatu pembuatan program. Selain pada praktikum dan juga tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah pada suatu studi kasus yang didalamnya tidak hanya menampilkan suatu inputan data saja namun, juga mengembalikan nilai perhitungan dari inputan data tersebut.
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/BarangTugas1841720121Ray.java)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/BarangTugasTest1841720121Ray.java)
 
 ## Pernyataan Diri
 
