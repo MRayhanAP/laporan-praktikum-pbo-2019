@@ -1,66 +1,121 @@
-# Laporan Praktikum #2 - Pengantar Konsep PBO
+# Laporan Praktikum #2 - Class dan Object
 
 ## Kompetensi
 
-Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal: 
-1. Perbedaan paradigma berorientasi objek dengan paradigma struktural 
-2. Konsep dasar PBO 
+ Kompetensi
+ 1. Mahasiswa dapat memahami deskripsi dari class dan object
+ 2. Mahasiswa memahami implementasi dari class
+ 3. Mahasiswa dapat memahami implementasi dari attribute
+ 4. Mahasiswa dapat memahami implementasi dari method
+ 5. Mahasiswa dapat memahami implementasi dari proses instansiasi
+ 6. Mahasiswa dapat memahami implementasi dari try-catch
+ 7. Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML 
 
 ## Ringkasan Materi
-
-Terkadang error saat melakukan running coding ternyata kesalahan terdapat di atribut karena salah pengetikan dan peletakan
 
 ## Percobaan
 
 ### Percobaan 1
 
-Didalam percobaan ini kita dapat mendemonstrasikan bagaimana membuat class, object
+Pada percobaan pertama adalah membuat class diagram dari suatu studi kasus dan juga beberapa pertanyaan sebagai berikut :
+
+Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa juga bisa menampilkan data pribadi. 
+ 
 
 
 
-![image](img/PBO1.png)
+1. Gambarkan desain class diagram dari studi kasus 1!
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720121Rayhan.java)
+jawaban :
+
+![image](img/Percobaan1.PNG)
+
+2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
+
+jawaban : Karyawan
+
+3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1!
+
+ Atribut yang ada pada class diagram Karyawan antara lain :
+   
+   a. Atribut id dengan tipe data integer
+
+   b. Atribut nama dengan tipe data String
+
+   c. Atribut jenisKelamin dengan tipe data String
+
+   d. Atribut jabatan dengan tipe data String
+
+   e. Atribut gaji dengan tipe data double
+
+4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1 
+terdapat dua method yang sudah dibuat yaitu :
+   
+   a. tampilBiodata
+
+   b. tampilGaji
 
 ### Percobaan 2
 
-Dalam percobaan ini kita membuat class SepedaGunung yang mana adalah turunan dari class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada sepeda gunung terdapat tipe suspensi.  Untuk itu kita tidak perlu membuat class Sepeda Gunung dari nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung. 
+Pada percobaan ke 2 adallah membuat program dengan class diagram yang sudah disediakan pada jobsheet, class diagram dari Mahasiswa yang berisi atribut nim dengan tipe data int, nama dengan tipe data String, alamat dengan tipe data String, kelas dengan tipe data String, Terdapat methode pada class diagram Mahasiswa  (tampilBiodata).
 
+![image](img/Percobaan2-1.PNG)
 
+![image](img/Percobaan2-2.PNG)
 
-![Image](img/PBO2.png)
+Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/Mahasiswa1841720121Ray.java)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720121Rayhan.java)
+Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/TestMahasiswa1841720121Ray.java)
 
-## Pertanyaan
+### Percobaan 3
 
-1. Object, Class, Inheritance, Polimorfisme, Enkapulasi.
-2. Object merupakan rangakaian dalam program yang terdapat state yang atributnya dari objek itu sendiri dan behavior. Perbedaan dengan Class ialah prototype atau rancangan pada suatu objek.
-3. Kelebihan Pemrograman Berbasis Objek yaitu :
-    
-A. Dalam menggunakan sebuah class cukup sekali tidak perlu dituis berkali-kali.
-    
-B. Data yang digunakan dalam bentuk private hanya bisa di akses oleh fungsi lokasi, sehingga tidak perlu khawatir untuk berpengaruh pada fungsi lainnya.
-    
-c. Dapat menambahkan fitur pada class tanpa mengedit class asal.
+ Pada class Barang terdapat tiga atribut : namaBarang, jenisBarang dan stok. selain atribut terdapat method pada class yaitu tampilBarang dan tambahStok.
 
-4. Merek, kecepatan dan gear
-5. 
-![image](img/PERTANYAAN5.png)
-6. Karena class sepedagunung.java sudah extend atau sudah diwarisi oleh class sepeda.
+![image](img/Percobaan3.PNG)
+
+Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/Barang1841720121Ray.java)
+
+Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/2_Class_dan_Object/TestBarang1841720121Ray.java)
+
+#### Kesimpulan : 
+
+Kegunaan return adalah untuk mengembalikan nilai dari suatu method yang didalamnya terdapat perhitungan.
 
 ## Tugas
 
+1. Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama member, nama game, dan harga yang harus dibayar. Setiap peminjaman bisa menampilkan data hasil peminjaman dan harga yang harus dibayar. Buatlah class diagram pada studi kasus diatas! 
+ 
+    Penjelasan:
+  
+    a. Harga yang harus dibayar diperoleh dari lama sewa x harga.
+   
+    b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 
+    ![image](img/Percobaan3.PNG)
 
+2. Buatlah program dari class diagram yang sudah anda buat di no 
 
-![image](img/TUGAS.png)
+    ![image](img/Percobaan3.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kursi1841720121Rayhan.java)
+3. Program dari Class diagram Lingkaran
+
+4. Program Class diagram Barang
+
+    Deskripsi / Penjelasan :
+    
+    a. Nilai atribut hargaDasar dalam Rupiah dan atribut diskon dalam %
+    
+    b. Method hitungHargaJual() digunakan untuk menghitung harga jual dengan perhitungan berikut ini: 
+    
+            harga jual = harga dasar – (diskon x harga dasar)
 
 ## Kesimpulan
 
-Dari percobaan diatas, kita telah mendemonstrasikan bagaimana paradigma pemrograman berorientasi objek dan mengimplementasikannya kedalam program sederhana. 
+Suatu class diagram pada java adalah rancangan dasar pada suatu pembuatan program. Selain pada praktikum dan juga tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah pada suatu studi kasus yang didalamnya tidak hanya menampilkan suatu inputan data saja namun, juga mengembalikan nilai perhitungan dari inputan data tersebut.
 
 ## Pernyataan Diri
 
@@ -70,4 +125,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(Muhammad Rayhan Akbar Putra)***
+***Muhammad Rayhan Akbar Putra***
