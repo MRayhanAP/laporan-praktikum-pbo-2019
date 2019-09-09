@@ -101,7 +101,7 @@ Kegunaan return adalah untuk mengembalikan nilai dari suatu method yang didalamn
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1 
 
-    ![image](img/Tugas1.png)
+    ![image](img/Tugas1.PNG)
 
     Contoh link kode program pada class :
 [ini contoh link ke kode program](../../src/2_Class_dan_Object/SewaVideoGame1841720121Ray.java)
