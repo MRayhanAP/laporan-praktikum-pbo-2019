@@ -13,7 +13,7 @@
 
 ## Ringkasan Materi
 
-    Suatu class diagram pada java adalah rancangan dasar pada suatu pembuatan program. Pada praktikum dan tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah pada suatu studi kasus yang didalamnya tidak hanya menampilkan suatu inputan data saja namun, juga mengembalikan nilai perhitungan dari inputan data tersebut.
+>Suatu class diagram pada java adalah rancangan dasar pada suatu pembuatan program. Pada praktikum dan tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah pada suatu studi kasus yang didalamnya tidak hanya menampilkan suatu inputan data saja namun, juga mengembalikan nilai perhitungan dari inputan data tersebut.
 
 ## Percobaan
 
@@ -28,17 +28,17 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap 
 
 1. Gambarkan desain class diagram dari studi kasus 1!
 
-jawaban :
+>jawaban :
 
 ![image](img/Percobaan1.PNG)
 
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
 
-jawaban : Karyawan
+>jawaban : Karyawan
 
 3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1!
 
- Atribut yang ada pada class diagram Karyawan antara lain :
+>Atribut yang ada pada class diagram Karyawan antara lain :
    
    a. Atribut id dengan tipe data integer
 
@@ -51,11 +51,11 @@ jawaban : Karyawan
    e. Atribut jenisKelamin dengan tipe data String
 
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1 
-terdapat dua method yang sudah dibuat yaitu :
+>terdapat dua method yang sudah dibuat yaitu :
    
    a. tampilBiodata
 
-   b. tampilGaji
+   b. tampilGaji 
 
 ### Percobaan 2
 
