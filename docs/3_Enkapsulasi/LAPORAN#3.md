@@ -129,12 +129,18 @@ Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, acce
 
 1. Cobalah program dibawah ini dan tuliskan hasil outputnya 
 ![image](img/Screenshot_1.png)
+![image](img/tugas_1.png)
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugas/EncapDemo1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugas/EncapTest1841720121Ray.java)
 
 2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa. 
 
 Jawaban : 
 
-![image](img/tugas_1.png)
+
 
 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
 
