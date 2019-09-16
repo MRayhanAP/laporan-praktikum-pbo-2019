@@ -148,7 +148,17 @@ Jawaban :
 
 ![image](img/tugas_3.png)
 
+5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf, angsuran harus 10% dari jumlah pinjaman”. 
 
+Jawaban :
+
+![image](img/tugas_4.png)
+
+6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran dapat menerima input dari console. 
+
+Jawaban :
+
+![image](img/tugas_5.png)
 
 ## Pernyataan Diri
 
