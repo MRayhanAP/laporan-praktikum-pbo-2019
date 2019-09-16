@@ -20,5 +20,21 @@ Pada praktikum ini saya menemukan kesulitan pada saat akan membuat sebuah inputa
 
 Pada percobaan pertama adalah membuat class bernama motor1841720121Ray yang memiliki atribut mkecepatan dengan tipe data integer dan mkontakOn dengan tipe data boolean dan terdapat main class motordemo1841720121Ray untuk memanggil fungsi method yang berada di class motor1841720121Ray dan juga terdapat method printStatusRay unutk mendisplay output menampilkan status pada motor.
 
-![image](img/Percobaan1.PNG)
+![image](img/Percobaan_1.png)
 
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/motor1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/motordemo1841720121Ray.java)
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***Muhammad Rayhan Akbar Putra***
