@@ -140,13 +140,19 @@ Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, acce
 
 Jawaban : 
 
-
+> Karena pada method setAge terdapat percabangan yang didalamnya berisi bila nilai dari atribut age lebih dari 30 maka nilai age akan menjadi 30.
 
 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
 
-Jawaban :
+Jawaban : 
 
 ![image](img/tugas_2.png)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugass/EncapDemo1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugass/EncapTest1841720121Ray.java)
 
 4. Pada sebuah sistem informasi koperasi simpan pinjam, terdapat class Anggota yang memiliki atribut antara lain nomor KTP, nama, limit peminjaman, dan jumlah pinjaman. Anggota dapat meminjam uang dengan batas limit peminjaman yang ditentukan. Anggota juga dapat mengangsur pinjaman. Ketika Anggota tersebut mengangsur pinjaman, maka jumlah pinjaman akan berkurang sesuai dengan nominal yang diangsur. Buatlah class Anggota tersebut, berikan atribut, method dan konstruktor sesuai dengan kebutuhan. Uji dengan TestKoperasi berikut ini untuk memeriksa apakah class Anggota yang anda buat telah sesuai dengan yang diharapkan.
 
