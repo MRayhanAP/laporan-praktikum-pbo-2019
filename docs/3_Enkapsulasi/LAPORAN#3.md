@@ -184,6 +184,12 @@ Jawaban :
 
 ![image](img/tugas_5.png)
 
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugas6/Anggota1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugas6/TestKoperasi1841720121Ray.java)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
