@@ -42,7 +42,22 @@ Dalam percobaan kedua ini adalah memperbaiki cara kerja class motor1841720121Ray
 
 ### Pertanyaan
 
+1. Pada class MotorDemo, saat kita menambah kecepatan untuk pertama kalinya, mengapa muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
+2. Mengapat atribut kecepatan dan kontakOn diset private?
+3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
 
+Jawaban
+
+1. 
+2. 
+3. 
+![image](img/Pertanyaan_3.png)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan/motormodif1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan/motormodifdemo1841720121Ray.java)
 
 ## Pernyataan Diri
 
