@@ -160,6 +160,12 @@ Jawaban :
 
 ![image](img/tugas_3.png)
 
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugassss/Anggota1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugassss/TestKoperasi1841720121Ray.java)
+
 5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf, angsuran harus 10% dari jumlah pinjaman”. 
 
 Jawaban :
