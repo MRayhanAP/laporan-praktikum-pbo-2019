@@ -46,7 +46,7 @@ Dalam percobaan kedua melakukan perbaiki pada cara kerja class motor1841720121Ra
 2. Mengapat atribut kecepatan dan kontakOn diset private?
 3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
 
-Jawaban
+### Jawaban
 
 1. Pada kontakOn diberi keadaan true (methode tambahkecepatanRay) makan kecepatan akan diberi 5(+=5)jika kontakon false mesin akan off karena false dan kecepatan tidak bertambah.
 2. Atribut hanya bisa di gunakan pada class ersebut dan Mencegah nama atribut yang sama.
@@ -69,6 +69,19 @@ Jawaban
 
     Contoh link kode program pada main class :
 [ini contoh link ke kode program](../../src/3_Enkapsulasi/AnggotaDemo1841720121Ray.java)
+
+### Percobaan 4 - Konstruktor, Intansiasi
+
+Percobaan 4 mencoba perubahan pada percobaan 3 (Anggota1841720121Ray.java & AnggotaDemo1841720121Ray.java)
+
+![image](img/Percobaan_4.png)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/Anggotaanggota1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/AnggotaDemodemo1841720121Ray.java)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
