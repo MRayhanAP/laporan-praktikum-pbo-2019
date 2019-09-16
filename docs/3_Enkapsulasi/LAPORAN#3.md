@@ -122,7 +122,33 @@ Percobaan 4 mencoba perubahan pada percobaan 3 (Anggota1841720121Ray.java & Angg
 9. 
 >Method merupakan suatu operasi berupa fungsi-fungsi yang dapat dikerjakan oleh suatu object.
 
+### Kesimpulan 
+Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, access modifier yang terdiri dari 4 jenis yaitu public, protected, default dan private. Konsep atribut atau method class yang ada di dalam blok code class dan konsep instansiasi atribut atau method. Cara penggunaan getter dan setter beserta fungsi dari getter dan setter. Dan juga telah dipelajari atau memahami notasi UML.
+
 ### Tugas
+
+1. Cobalah program dibawah ini dan tuliskan hasil outputnya 
+![image](img/Screenshot_1.png)
+
+2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa. 
+
+Jawaban : 
+
+![image](img/tugas_1.png)
+
+3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
+
+Jawaban :
+
+![image](img/tugas_2.png)
+
+4. Pada sebuah sistem informasi koperasi simpan pinjam, terdapat class Anggota yang memiliki atribut antara lain nomor KTP, nama, limit peminjaman, dan jumlah pinjaman. Anggota dapat meminjam uang dengan batas limit peminjaman yang ditentukan. Anggota juga dapat mengangsur pinjaman. Ketika Anggota tersebut mengangsur pinjaman, maka jumlah pinjaman akan berkurang sesuai dengan nominal yang diangsur. Buatlah class Anggota tersebut, berikan atribut, method dan konstruktor sesuai dengan kebutuhan. Uji dengan TestKoperasi berikut ini untuk memeriksa apakah class Anggota yang anda buat telah sesuai dengan yang diharapkan.
+
+Jawaban :
+
+![image](img/tugas_3.png)
+
+
 
 ## Pernyataan Diri
 
