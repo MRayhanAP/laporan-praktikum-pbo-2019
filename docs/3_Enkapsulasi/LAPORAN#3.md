@@ -172,6 +172,12 @@ Jawaban :
 
 ![image](img/tugas_4.png)
 
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugasss/Anggota1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/tugasss/TestKoperasi1841720121Ray.java)
+
 6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran dapat menerima input dari console. 
 
 Jawaban :
