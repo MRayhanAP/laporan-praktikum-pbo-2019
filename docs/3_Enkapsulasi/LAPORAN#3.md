@@ -30,7 +30,7 @@ Pada percobaan pertama adalah membuat class bernama motor1841720121Ray yang memi
 [ini contoh link ke kode program](../../src/3_Enkapsulasi/motordemo1841720121Ray.java)
 
 ### Percobaan 2 - Access Modifier
-Dalam percobaan kedua ini adalah memperbaiki cara kerja class motor1841720121Ray yang ada pada percobaan ke-1 dengan cara menambahkan sebuah method baru yaitu matikanMesinRay, nyalakanMesinRay, kurangiKecepatanRay dan tambahKecepatanRay.
+Dalam percobaan kedua melakukan perbaiki pada cara kerja class motor1841720121Ray yang ada pada percobaan ke-1 dengan cara menambahkan sebuah method baru yaitu matikanMesinRay, nyalakanMesinRay, kurangiKecepatanRay dan tambahKecepatanRay.
 
 ![image](img/Percobaan_2.png)
 
@@ -48,8 +48,8 @@ Dalam percobaan kedua ini adalah memperbaiki cara kerja class motor1841720121Ray
 
 Jawaban
 
-1. 
-2. 
+1. Pada kontakOn diberi keadaan true (methode tambahkecepatanRay) makan kecepatan akan diberi 5(+=5)jika kontakon false mesin akan off karena false dan kecepatan tidak bertambah.
+2. Atribut hanya bisa di gunakan pada class ersebut dan Mencegah nama atribut yang sama.
 3. 
 ![image](img/Pertanyaan_3.png)
 
@@ -59,6 +59,16 @@ Jawaban
     Contoh link kode program pada main class :
 [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan/motormodifdemo1841720121Ray.java)
 
+### Percobaan 3 - Getter dan Setter
+    Percobaan 3 membuat class anggota yang memiliki atribut mama(String), alamat(String), simpanan(float) dan memiliki method setalamat, setnama, getalamat, getnama, getsimpanan, setor, pinjam.
+
+![image](img/Percobaan_3.png)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/Anggota1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/AnggotaDemo1841720121Ray.java)
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
