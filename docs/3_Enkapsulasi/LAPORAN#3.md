@@ -29,6 +29,21 @@ Pada percobaan pertama adalah membuat class bernama motor1841720121Ray yang memi
     Contoh link kode program pada main class :
 [ini contoh link ke kode program](../../src/3_Enkapsulasi/motordemo1841720121Ray.java)
 
+### Percobaan 2 - Access Modifier
+Dalam percobaan kedua ini adalah memperbaiki cara kerja class motor1841720121Ray yang ada pada percobaan ke-1 dengan cara menambahkan sebuah method baru yaitu matikanMesinRay, nyalakanMesinRay, kurangiKecepatanRay dan tambahKecepatanRay.
+
+![image](img/Percobaan_2.png)
+
+    Contoh link kode program pada class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/motormodif1841720121Ray.java)
+
+    Contoh link kode program pada main class :
+[ini contoh link ke kode program](../../src/3_Enkapsulasi/motormodifdemo1841720121Ray.java)
+
+### Pertanyaan
+
+
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
