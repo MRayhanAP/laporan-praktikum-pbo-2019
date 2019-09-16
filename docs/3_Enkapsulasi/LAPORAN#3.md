@@ -48,10 +48,12 @@ Dalam percobaan kedua melakukan perbaiki pada cara kerja class motor1841720121Ra
 
 ### Jawaban
 
-1. Pada kontakOn diberi keadaan true (methode tambahkecepatanRay) makan kecepatan akan diberi 5(+=5)jika kontakon false mesin akan off karena false dan kecepatan tidak bertambah.
-2. Atribut hanya bisa di gunakan pada class ersebut dan Mencegah nama atribut yang sama.
+1. 
+>Pada kontakOn diberi keadaan true (methode tambahkecepatanRay) makan kecepatan akan diberi 5(+=5)jika kontakon false mesin akan off karena false dan kecepatan tidak bertambah.
+2. 
+>Atribut hanya bisa di gunakan pada class ersebut dan Mencegah nama atribut yang sama.
 3. 
-![image](img/Pertanyaan_3.png)
+> ![image](img/Pertanyaan_3.png)
 
     Contoh link kode program pada class :
 [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan/motormodif1841720121Ray.java)
@@ -81,6 +83,46 @@ Percobaan 4 mencoba perubahan pada percobaan 3 (Anggota1841720121Ray.java & Angg
 
     Contoh link kode program pada main class :
 [ini contoh link ke kode program](../../src/3_Enkapsulasi/AnggotaDemodemo1841720121Ray.java)
+
+### Pertanyaan
+
+1. Apa yang dimaksud getter dan setter?
+2. Apa kegunaan dari method getSimpanan()?
+3. Method apa yang digunakan untk menambah saldo?
+4. Apa yand dimaksud konstruktor?
+5. Sebutkan aturan dalam membuat konstruktor?
+6. Apakah boleh konstruktor bertipe private?
+7. Kapan menggunakan parameter dengan passsing parameter?
+8. Apa perbedaan atribut class dan instansiasi atribut?
+9. Apa perbedaan class method dan instansiasi method?
+
+### Jawaban
+
+1. 
+>setter adalah method untuk mengambil nilai atau isi dari atribut tersebut.
+>getter adalah method untuk mengembalikan suatu nilai dari dalam method itu sendiri
+2. 
+>Untuk mengembalikan nilai pada atribut simpanan.
+3. 
+>Method yang menambahkan saldo adalah setor().
+4. 
+>Suatu method khusus yang akan langsung dieksekusi saat melakukan pembuatan suatu objek.
+5. 
+>a. membuat konstruktur harus memiliki nama yang sama dengan class.
+
+>b. konstruktor tidak dapat diwariskan.
+
+>c. this adalah pernyataan pertama yang di panggil dalam constructor.
+6. 
+>Tidak, Karenajika konstruktor bertipe private maka objek tidak bisa diakes atau tidak bisa di instansiasi oleh class lain
+7. 
+>Jika menggunakan konstruktor maka sebaiknya menggunakan passing parameter dan juga sebaliknya.
+8. 
+>instansiasi memiliki nilai untuk objek dimana setiap objek yang satu dengan yang lain berbeda beda sedangkan Atribut class adalah suatu atribut yang terdapat pada suatu objek
+9. 
+>Method merupakan suatu operasi berupa fungsi-fungsi yang dapat dikerjakan oleh suatu object.
+
+### Tugas
 
 ## Pernyataan Diri
 
