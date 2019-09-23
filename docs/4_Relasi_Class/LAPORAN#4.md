@@ -40,4 +40,22 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 
 Jawaban:
 
->
+>konstruktor berparameter digunakan saat melakukan inisialisasi pada suatu objek dengan ketentuan tertentu dimana hanya beberapa objek saja yang akan di inisialisasikan.
+
+>konstruktor default digunakan saat melakukan inisialisasi objek apabila pada konstruktor default maka yang akan di inisialisasi adalah semua objek yang ada pada class
+
+3. Perhatikan class Laptop1841720121Ray, di antara 2 atribut yang dimiliki (merk dan proc), atribut manakah yang bertipe object ?
+
+Jawaban:
+
+>atribut yang bernama proc
+
+4. Perhatikan class Laptop1841720121Ray, pada baris manakah yang menunjukan bahwa class Laptop1841720121Ray memiliki relasi dengan class Processor1841720121Ray ?
+
+Jawaban:
+
+>Baris yang memiliki menunjukkan bahwa class Laptop1841720121Ray memiliki relasi dengan class Processor1841720121Ray adalah pada baris ke 14 yang bertuliskan
+    
+>        private processor1841720121Ray mproc;
+
+>    ![contoh screenshot](img/Pertanyaan_1no.4.png)
