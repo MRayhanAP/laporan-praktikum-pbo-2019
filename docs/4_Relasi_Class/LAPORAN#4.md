@@ -158,7 +158,7 @@ Contoh link kode program pada main class mainpercobaan31841720121Ray.java : [ini
 
 Jawaban:
 
->Dalam method infoRay() pada class KeretaApi1841720121Ray, baris this.masinis.infoRay() digunakan untuk memanggil infoRay pada class Pegawai1841720128Arifin dan this.asisten.infoRay() digunakan untuk memanggil info pada class Pegawai1841720121Ray.
+>Dalam method infoRay() pada class KeretaApi1841720121Ray, baris this.masinis.infoRay() digunakan untuk memanggil infoRay pada class Pegawai1841720121Ray dan this.asisten.infoRay() digunakan untuk memanggil info pada class Pegawai1841720121Ray.
 
 2. Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main() ! 
 
@@ -179,7 +179,8 @@ Jawaban:
 
 4. Perbaiki class KeretaApi sehingga program dapat berjalan !
 
-jawaban:
+jawabann:
 
 >![contoh screenshot](img/Pertanyaan_3no.4.png)
 
+### Percobaan 4
