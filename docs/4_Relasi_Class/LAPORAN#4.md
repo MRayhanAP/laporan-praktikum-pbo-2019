@@ -59,3 +59,38 @@ Jawaban:
 >        private processor1841720121Ray mproc;
 
 >    ![contoh screenshot](img/Pertanyaan_1no.4.png)
+
+5. Perhatikan pada class Laptop1841720121Ray , Apakah guna dari sintaks proc.infoRay() ?
+
+Jawaban:
+
+>Fungsi dari sintak infoRay.info() adalah digunakan untuk memanggil method infoRay() yang ada pada class Processor1841720121Ray.
+
+6. Pada class mainpercobaan11841720121Ray, terdapat baris kode: Laptop1841720121Ray l = new Laptop1841720121Ray("Thinkpad", p);. Apakah p tersebut ? Dan apakah yang terjadi jika baris kode tersebut diubah menjadi: 
+Laptop1841720121Ray l = new Laptop1841720121Ray("Thinkpad", new Processor("Intel i5", 3)); Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ?
+
+Jawaban:
+
+    Huruf p yang ada pada baris kode
+    
+        laptop1841720121Ray l = new laptop1841720121Ray("Thinkpad", p);
+
+    memiliki fungsi yaitu untuk meinputan pada konstruktor Processor1841720121Ray kedalam konstruktor Laptop1841720121Ray dengan memasukkan inisialisasinya, jika baris diubah menjadi
+
+        Laptop1841720121Ray l = new Laptop1841720121Ray("Thinkpad", new Processor("Intel i5", 3));
+
+    yang terjadi adalah sama dengan yang dibuat pada awalnya.
+
+### Percobaan 2
+
+Pada percobaan kedua membuat tiga buah class dan satu buah Main class yang pertama adalah class yang bernama Mobil1841720121Ray yang memiliki atribut merk dengan tipe data String dan biaya dengan tipe data integer terdapat konstruktor default, method getter setter, dan juga method hitungBiayaMobilRay() untuk menghitung biaya mobil. Class ke 2 yaitu Sopir1841720121Ray yang memiliki atribut nama dengan tipe data String dan biaya dengan tipe data integer, selain atribut terdapat konstruktor default, method getter setter, dan juga method hitungBiayaSopirRay() untuk menghitung biaya pada class Sopir1841720121Ray. Class ke 3 yaitu Pelanggan1841720121Ray terdapat empat atribut yaitu dengan tipe data String, mobil dengan tipe data class Mobil1841720121Ray, sopir dengan tipe data class Sopir1841720121Ray, hari dengan tipe data integer, selain atribut terdapat juga method getter setter dan method hitungBiayaTotalRay() untuk menghitung biaya total dari penjumlahan antara method hitungBiayaMobilRay() dan hitungBiayaSopirRay(). Terdapat class main yaitu mainpercobaan21841720121Ray untuk menampilkan hasil ke 3 class diatas.
+
+![contoh screenshot](img/Percobaan_2.png)
+
+Contoh link kode program pada class Mobil1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Mobil/Mobil1841720121Ray.java)
+
+Contoh link kode program pada class Sopir1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Mobil/Sopir1841720121Ray.java)
+
+Contoh link kode program pada class Pelanggan1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Mobil/Pelanggan1841720121Ray.java)
+
+Contoh link kode program pada Main class mainpercobaan21841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Mobil/mainpercobaan21841720121Ray.java)
