@@ -104,3 +104,38 @@ Jawaban:
 >Pada baris 14 dan 15 dapat dibuktikan bahwa class Pelanggan1841720121Ray memiliki relasi dengan class Mobil1841720121Ray dan class Sopir1841720121Ray
 
 >![contoh screenshot](img/Pertanyaan_2no.1.png)
+
+2. Perhatikan method hitungBiayaSopirRay pada class Sopir1841720121Ray, serta method hitungBiayaMobilRay pada class Mobil1841720121Ray. Mengapa menurut Anda method tersebut harus memiliki argument hari ?
+
+Jawaban:
+
+>karena pada method biaya yang dibayar tergantung pada harinya sehingga inputan hari sebagai patokan atau inputan untuk menentukan berapa biaya total yang harus dibayarkan.
+
+3. Perhatikan kode dari class Pelanggan1841720121Ray. Untuk apakah perintah mobil.hitungBiayaMobilRay(mhari) dan sopir.hitungBiayaSopirRay(mhari) ?
+
+Jawaban:
+
+>Untuk menghitung berapa biaya yang harus dibayarkan dari kedua class, dengan cara nilai dari atribut biaya dikalikan dengan atribut hari.
+
+4. Perhatikan class mainpercobaan21841720121Ray. Untuk apakah sintak planggan.setMobilRay(mobil) dan planggan.setSopirRay(sopir) ?
+
+jawaban:
+
+>Untuk menginputkan nilai dari atribut mobil dan juga sopir yang sebelumnya sudah terisi pada konstruktor Mobil1841720121Ray dan juga Sopir1841720121Ray.
+
+5. Perhatikan class MainPercobaan2. Untuk apakah proses planggan.hitungBiayaTotalRay() tersebut ?
+
+Jawaban:
+
+>Untuk menghitung biaya total dari kedua method dari class Mobil1841720121Ray dan juga Sopir1841720121Ray yang sebelumya sudah dihitung dan tinggal menjumlahkan hasilnya dari kedua method yaitu hitungBiayaMobilRay dan hitungBiayaSopirRay.
+
+6. Perhatikan class mainpercobaan21841720121Ray, coba tambahkan pada baris terakhir dari method main dan amati perubahan saat di‑run!
+
+    System.out.println(planggan.getMobilRay().getMerkRay()); 
+ 
+Jadi untuk apakah sintak p.getMobilRay().getMerkRay() yang ada di dalam method main tersebut?
+
+Jawaban:
+    
+>Setelah melakukan perubahan akan muncul inputan selain hasil dari biaya total yaitu memunculkan kata berupa "Avanza", fungsi dari sintak tersebut adalah untuk memanggil nilai atribut pada merk.
+
