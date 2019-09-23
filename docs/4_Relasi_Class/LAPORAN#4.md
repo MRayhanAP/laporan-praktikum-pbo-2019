@@ -30,3 +30,14 @@ Contoh link kode program pada main class mainpercobaan11841720121Ray.java : [ini
 Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 
 1. Di dalam class Processor dan class laptop1841720121Ray, terdapat method setter dan getter untuk masing‑masing atributnya. Apakah gunanya method setter dan getter tersebut ?
+
+ Jawaban:
+>kegunaan method getter adalah untuk menampilkan nilai dari class yang sebelumnya telah mengambil nilai dari atribut main class
+
+>Kegunaan dari method setter adalah mengambil nilai dari atribut yang ada pada main class.
+
+2. Di dalam class Processor dan class Laptop1841720121Ray, masing‑masing terdapat konstruktor default dan konstruktor berparameter. Bagaimanakah beda penggunaan dari kedua jenis konstruktor tersebut ?
+
+Jawaban:
+
+>
