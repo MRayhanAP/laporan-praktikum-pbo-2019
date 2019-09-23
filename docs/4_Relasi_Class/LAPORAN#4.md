@@ -94,3 +94,13 @@ Contoh link kode program pada class Sopir1841720121Ray.java : [ini contoh link k
 Contoh link kode program pada class Pelanggan1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Mobil/Pelanggan1841720121Ray.java)
 
 Contoh link kode program pada Main class mainpercobaan21841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Mobil/mainpercobaan21841720121Ray.java)
+
+### Pertanyaan
+
+1. Perhatikan class Pelanggan. Pada baris program manakah yang menunjukan bahwa class Pelanggan1841720121Ray memiliki relasi dengan class Mobil1841720121Ray dan class Sopir1841720121Ray ?
+
+Jawaban: 
+
+>Pada baris 14 dan 15 dapat dibuktikan bahwa class Pelanggan1841720121Ray memiliki relasi dengan class Mobil1841720121Ray dan class Sopir1841720121Ray
+
+>![contoh screenshot](img/Pertanyaan_2no.1.png)
