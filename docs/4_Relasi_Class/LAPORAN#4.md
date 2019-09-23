@@ -139,3 +139,14 @@ Jawaban:
     
 >Setelah melakukan perubahan akan muncul inputan selain hasil dari biaya total yaitu memunculkan kata berupa "Avanza", fungsi dari sintak tersebut adalah untuk memanggil nilai atribut pada merk.
 
+### Percobaan 3
+
+Pada class Pegawai1841720121Ray terdapat dua buah atribut yaitu atribut bernama nip dengan tipe data String dan nama dengan tipe data String. Terdapat konstruktor berparameter, method getter setter dan juga method(infoRay() untuk menampilkan nilai pada kedua atribut). Pada class KeretaApi1841720121Ray mempunya 4 atribut yaitu nama dengan tipe data String, kelas dengan tipe data String, masinis dengan tipe data class Pegawai1841720121Ray dan yang terakhir asisten dengan tipe data class Pegawai1841720121Ray, selain atribut juga terdapat konstruktor 2 konstruktor berparameter 3 dan berparameter 4, method getter setter, juga method infoRay() untuk menampilkan informasi nilai pada setiap atribut.
+
+![contoh screenshot](img/Percobaan_3.png)
+
+Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kereta/Pegawai1841720121Ray.java)
+
+Contoh link kode program pada class KeretaApi1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kereta/KeretaApi1841720121Ray.java)
+
+Contoh link kode program pada main class mainpercobaan31841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kereta/mainpercobaan31841720121Ray.java)
