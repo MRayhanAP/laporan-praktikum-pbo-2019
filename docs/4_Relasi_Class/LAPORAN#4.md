@@ -185,3 +185,14 @@ jawabann:
 
 ### Percobaan 4
 
+Pada percobaan 4 membuat class Penumpang1841720121Ray atribut yaitu ktp dengan tipe data String, nama dengan tipe data String, kemudian terdapat konstruktor berparameter, method getter setter dan juga method infoRay() untuk menampilkan nilai dari kedua atribut. Class ke 2 membuat Kursi1841720121Ray. class yang ketiga bernama Gerbong1841720121Ray terdapat satu konstruktor berparameter dua, method getter setter, method untuk array dengan nama initKursiRay(), method setPenumpangRay() dan juga infoRay() untuk menampilkan nilai dari atribut. Terdapat class main mainpercobaan41841720121Ray untuk menginputkan dan menampilkan hasil dari pengolahan pada setiap class. 
+
+![contoh screenshot](img/Percobaan_4.png)
+
+Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kreta/Penumpang1841720121Ray.java)
+
+Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kreta/Kursi1841720121Ray.java)
+
+Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kreta/Gerbong1841720121Ray.java)
+
+Contoh link kode program pada class Main KoperasiDemo1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kreta/mainpercobaan41841720121Ray.java)
