@@ -8,7 +8,7 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## Ringkasan Materi
 
-Pada praktikum ini saya mengalami kesulitan pada pehaman saya terhadap suatu relasi class dan juga tipe data menggunakan nama class.
+>Pada praktikum ini saya mengalami kesulitan pada pehaman saya terhadap suatu relasi class dan juga tipe data menggunakan nama class.
 
 
 ## Percobaan
@@ -196,3 +196,64 @@ Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link
 Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kreta/Gerbong1841720121Ray.java)
 
 Contoh link kode program pada class Main KoperasiDemo1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kreta/mainpercobaan41841720121Ray.java)
+
+### Pertanyaan
+
+1. Pada main program dalam class MainPercobaan4, berapakah jumlah kursi dalam Gerbong A ? 
+
+Jawaban:
+
+>Jumlah kursi dalam gerbong sebanyak 10 kursi
+
+2. Perhatikan potongan kode pada method infoRay() dalam class Kursi. Apa maksud kode tersebut ? 
+ 
+        ... if (this.penumpang != null) { info += "Penumpang: " + penumpang.infoRay() + "\n"; } ... 
+
+Jawaban:
+
+>Maksud dari sintaks tersebut adalah jika atribut penumpang tidak sama dengan null maka info ditambahkan sama dengan penumpang dengan method infoRay().
+
+3. Mengapa pada method setPenumpangRay() dalam class Gerbong1841720121Ray, nilai nomor dikurangi dengan angka 1 ? 
+
+Jawaban:
+
+>Karena index array sendiri dimulai dari angka nol
+
+4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ? 
+
+Jawaban:
+
+>Data budi tetap akan keluar namun menggunakan urutan kursi yang digunakan oleh data lain atau orang lain
+
+5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain ! 
+
+Jawaban:
+    
+>![contoh screenshot](img/Pertanyaan_4no.5.png)
+
+## Tugas
+
+Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung). 
+
+![contoh screenshot](img/Tugas.png)
+
+Contoh link kode program pada class Loket1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Loket1841720121Ray.java)
+
+Contoh link kode program pada class Pegawai1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Pegawai1841720121Ray.java)
+
+Contoh link kode program pada class Pelanggan1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Pelanggan1841720121Ray.java)
+
+Contoh link kode program pada class Tiket1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Tiket1841720121Ray.java)
+
+Contoh link kode program pada class main TugasMain1841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/TugasMain1841720121Ray.java)
+
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***Muhammad Rayhan Akbar Putra***
