@@ -151,3 +151,37 @@ Contoh link kode program pada class KeretaApi1841720121Ray.java : [ini contoh li
 
 Contoh link kode program pada main class mainpercobaan31841720121Ray.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Kereta/mainpercobaan31841720121Ray.java)
 
+### Pertanyaan
+
+
+1. Di dalam method infoRay() pada class KeretaApi, baris this.masinis.infoRay() dan this.asisten.infoRay() digunakan untuk apa ? 
+
+Jawaban:
+
+>Dalam method infoRay() pada class KeretaApi1841720121Ray, baris this.masinis.infoRay() digunakan untuk memanggil infoRay pada class Pegawai1841720121Ray dan this.asisten.infoRay() digunakan untuk memanggil info pada class Pegawai1841720121Ray.
+
+2. Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main() ! 
+
+        Pegawai masinis = new Pegawai("1234", "Spongebob Squarepants"); 
+        KeretaApi keretaApi = new KeretaApi("Gaya Baru", "Bisnis", masinis);
+        System.out.println(keretaApi.info());
+
+Jawaban:
+
+>![contoh screenshot](img/Pertanyaan_3no.2.png)
+
+
+3. Apa hasil output dari main program tersebut ? Mengapa hal tersebut dapat terjadi ?
+
+Jawaban:
+
+>Output dari hasil program tersebut adalah terjadi error, karena ada kesalahan saat dalam membuat konstruktor beserta nilai dari atributnya.
+
+4. Perbaiki class KeretaApi sehingga program dapat berjalan !
+
+jawabann:
+
+>![contoh screenshot](img/Pertanyaan_3no.4.png)
+
+### Percobaan 4
+
