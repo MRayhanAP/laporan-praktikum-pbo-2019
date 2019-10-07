@@ -139,6 +139,52 @@ Contoh kode program pada class ClassC1841720121Ray.java : [ini link ke kode prog
 
 Contoh kode program pada main class Percobaan41841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan4/Percobaan41841720121Ray.java)
 
+### Pertanyaan
+
+1. Pada percobaan 4 sebutkan mana class yang termasuk superclass dan subclass, kemudian jelaskan alasannya!
+
+    Jawab:
+
+    Yang merupakan Superclass adalah ClassA1841720121Ray dan subclassnya adalah ClassB1841720121Ray kenapa bisa begitu ?, karena ClassA1841720121Ray merupakan class induk yang tidak diwarisi oleh class lain namun mewarikan pada class lain sedangkan pada ClassB1841720121Ray merupakan subclass karena diwariskan dari ClassA1841720121Ray namun bisa dikatakan sebagai superclass juga karena mewariskan pada ClassC1841720121Ray.
+
+2. Ubahlah isi konstruktor default ClassC seperti berikut:	
+
+![screenshot](img/Screenshot_9.png)
+
+    Tambahkan kata super() di baris	Pertaman dalam konstruktor defaultnya. Coba jalankan kembali class Percobaan4 dan terlihat tidak ada perbeda dari hasil outputnya!
+
+    Jawab:
+
+![screenshot](img/Screenshot_10.png)
+
+3. Ubahlah isi konstruktor default ClassC seperti berikut:	
+
+
+    ![screenshot](img/Screenshot_11.png)  
+
+
+    Ketika mengubah posisi super() dibaris kedua dalam kontruktor defaultnya dan terlihat ada error. Kemudian kembalikan super() kebaris pertama seperti sebelumnya, maka errornya akan hilang.
+
+    ![screenshot](img/Screenshot_12.png)  
+
+    Jelaskan bagaimana urutan proses jalannya konstruktor saat objek test dibuat!	  
+
+    Jawab:
+
+    ClassC1841720121Ray akan menambahkan super() untuk memanggil konstruktor superclass. penggunaan super() hanya bisa digunakan pada baris pertama dalam konstruktor.
+
+4. Apakah fungsi super() pada potongan program dibawah ini di ClassC!
+
+    ![screenshot](img/Screenshot_13.png) 
+
+    Jawab:
+
+    Menunjukkan atau memanggil konstruktor superclass.
+
+
+### Percobaan 5
+
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
