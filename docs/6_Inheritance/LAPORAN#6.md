@@ -79,6 +79,16 @@ Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode prog
 
 Contoh kode program pada main class Percobaan21841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan2fix/Percobaan21841720121Ray.java)
 
+2. Jelaskan apa penyebab program pada percobaan 2 ketika dijalankan terdapat error!
+
+    Jawab:
+
+    Alasan kenapa terjadi error adalah karena pada ClassB1841720121Ray belum ditambahkan extends yang diarahkan pada ClassA1841720121Ray dan juga belum diubahnya modifier pada atribut di class ClassA1841720121Ray dari private mejadi protected perubahan pada main class juga dipperlukan dengan mengisi value pada method setter yang telah disediakan.
+
+
+### Percobaan 3
+
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
