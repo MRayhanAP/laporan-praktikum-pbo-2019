@@ -51,6 +51,18 @@ Contoh kode program pada main class Percobaantest1841720121Ray.java : [ini link 
 
     Penyebab kenapa bisa terjadi error adalah karena pada ClassB1841720121Ray belum ditambahkan fungsi extends yang diarahkan ke ClasA1841720121Ray dan juga belum ditambakannya konstruktor ClassA1841720121Ray pada main class Percobaan11841720121Ray.
 
+### Percobaan 2
+
+![screenshot](img/Screenshot_3.png)
+
+Contoh kode program pada class ClassA1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan2/ClassA1841720121Ray.java)
+
+
+Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan2/ClassB1841720121Ray.java)
+
+
+Contoh kode program pada main class Percobaan21841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan2/Percobaan21841720121Ray.java)
+
 
 ## Pernyataan Diri
 
