@@ -96,6 +96,36 @@ Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode prog
 
 Contoh kode program pada main class Percobaan21841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan3/Percobaan21841720121Ray.java)
 
+### Pertanyaan
+
+1. Jelaskan fungsi “super” pada potongan program berikut di class Tabung!
+
+
+    ![screenshot](img/Screenshot_6.png)  
+
+
+    Jawab:
+
+    Fungsi super pada potongan program tersebut adalah untuk memberikan penjelasan pada atribut phi terdapat pada class induk.
+
+2. Jelaskan fungsi “super” dan “this” pada potongan program berikut di class Tabung!	
+
+
+    ![screenshot](img/Screenshot_7.png)  
+
+
+    Jawab:
+
+    Super sendiri menunjukkan bahwa atribut tersebut terletak pada class induk atau bisa dikatakan bahwa atribut ini merupakan atribut milik induk, sedangkan pada this menunjukkan bahwa atribut tersebut terletak pada class subclass tersebut.
+
+3. Jelaskan mengapa pada class Tabung1841720121Ray tidak dideklarasikan atribut “phi” dan “r” tetapi class tersebut dapat mengakses atribut tersebut! 
+
+    Jawab:
+
+    Karena class Tabung1841720121Ray merupakan subclass dari class Bangun1841720121Ray sehingga atribut yang ada pada tersebut walaupun bersifat protected akan diwariskan pada subclassnya.
+
+### Percobaan 4
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
