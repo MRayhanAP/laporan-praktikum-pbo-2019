@@ -29,8 +29,21 @@ Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode prog
 
 Contoh kode program pada main class Percobaantest1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan1/Percobaan11841720121Ray.java)
 
+### Pertanyaan
+
+1. Pada	percobaan 1 diatas program yang dijalankan terjadi error, kemudian perbaiki sehingga program tersebut bisa dijalankan dan tidak error!
+
+    Jawab:
+
+![contoh screenshot](img/Screenshot_2.png)
+
+Contoh kode program pada class ClassA1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan1fix/ClassA1841720121Ray.java)
 
 
+Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan1fix/ClassB1841720121Ray.java)
+
+
+Contoh kode program pada main class Percobaantest1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan1fix/Percobaan11841720121Ray.java)
 
 ## Pernyataan Diri
 
