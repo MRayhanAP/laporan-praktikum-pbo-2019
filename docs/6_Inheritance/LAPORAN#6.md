@@ -126,6 +126,19 @@ Contoh kode program pada main class Percobaan21841720121Ray.java : [ini link ke 
 
 ### Percobaan 4
 
+![screenshot](img/Screenshot_8.png)
+
+Contoh kode program pada class ClassA1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan4/ClassA1841720121Ray.java)
+
+
+Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan4/ClassB1841720121Ray.java)
+
+
+Contoh kode program pada class ClassC1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan4/ClassC1841720121Ray.java)
+
+
+Contoh kode program pada main class Percobaan41841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan4/Percobaan41841720121Ray.java)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
