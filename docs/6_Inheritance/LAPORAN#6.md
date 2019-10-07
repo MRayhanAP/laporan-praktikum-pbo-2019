@@ -88,6 +88,13 @@ Contoh kode program pada main class Percobaan21841720121Ray.java : [ini link ke 
 
 ### Percobaan 3
 
+![screenshot](img/Screenshot_5.png)
+
+Contoh kode program pada class ClassA1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan3/ClassA1841720121Ray.java)
+
+Contoh kode program pada class ClassB1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan3/ClassB1841720121Ray.java)
+
+Contoh kode program pada main class Percobaan21841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan3/Percobaan21841720121Ray.java)
 
 ## Pernyataan Diri
 
