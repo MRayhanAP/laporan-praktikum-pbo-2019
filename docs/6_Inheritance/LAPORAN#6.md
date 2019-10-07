@@ -49,7 +49,7 @@ Contoh kode program pada main class Percobaantest1841720121Ray.java : [ini link 
 
     Jawab:
 
-    Penyebab kenapa bisa terjadi error adalah karena pada ClassB1841720121Ray belum ditambahkan fungsi extends yang diarahkan ke ClasA1841720121Ray dan juga belum ditambakannya konstruktor ClassA1841720121Ray pada main class Percobaantest1841720121Ray.
+    Penyebab kenapa bisa terjadi error adalah karena pada ClassB1841720121Ray belum ditambahkan fungsi extends yang diarahkan ke ClasA1841720121Ray dan juga belum ditambakannya konstruktor ClassA1841720121Ray pada main class Percobaan11841720121Ray.
 
 
 ## Pernyataan Diri
