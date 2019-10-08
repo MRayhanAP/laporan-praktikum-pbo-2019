@@ -184,6 +184,19 @@ Contoh kode program pada main class Percobaan41841720121Ray.java : [ini link ke 
 
 ### Percobaan 5
 
+![screenshot](img/Screenshot_14.png)
+
+Contoh kode program pada class Karyawan1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan5/Karyawan1841720121Ray.java)
+
+
+Contoh kode program pada class Manager1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan5/Manager1841720121Ray.java)
+
+
+Contoh kode program pada class Staff1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan5/Staff1841720121Ray.java)
+
+
+Contoh kode program pada main class Inheritance11841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan5/Inheritance11841720121Ray.java)
+
 
 ## Pernyataan Diri
 
