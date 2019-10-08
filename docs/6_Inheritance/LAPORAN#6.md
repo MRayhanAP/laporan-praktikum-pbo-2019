@@ -197,6 +197,51 @@ Contoh kode program pada class Staff1841720121Ray.java : [ini link ke kode progr
 
 Contoh kode program pada main class Inheritance11841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan5/Inheritance11841720121Ray.java)
 
+### Pertanyaan
+
+1. Sebutkan class mana yang termasuk super class dan sub class dari percobaan 1 diatas!	
+
+    Jawab:
+
+    Yang termasuk super class adalah class Karyawan1841720121Ray dan yang merupakan sub class adalah class Manager1841720121Ray dan class Staff1841720121Ray.
+
+2. Kata kunci apakah yang digunakan untuk menurunkan suatu class ke class yang lain?
+
+    Jawab:
+
+    Kata kunci untuk menurunkan suatu class ke class yang lain adalah 'extends'.
+
+3. Perhatikan kode program pada class Manager1841720121Ray, atribut apa saja yang dimiliki oleh class tersebut? Sebutkan atribut mana saja yang diwarisi dari class Karyawan!
+
+    Jawab:
+
+    Yang merupakan atribut yang dimiliki oleh Manager1841720121Ray adalah tunjangan bertipe data integer, dan atribut yang diwariskan dari class Karyawan1841720121Ray ke class Manager1841720121Ray adalah nama, alamat dan jk yang memiliki tipe data String, selain itu juga ada umur dan gaji yang memiliki tipe data integer.
+
+4. Jelaskan kata kunci super pada potongan program dibawah ini yang terdapat pada class Manager1841720121Ray!
+
+    ![contoh screenshot](img/Screenshot_15.png)
+
+    Jawab:
+
+    Untuk memanggil atribut gaji pada super class adalah Karyawan1841720121Ray.
+
+5. Program pada percobaan 1 diatas termasuk dalam jenis inheritance apa? Jelaskan alasannya!
+
+    Jawab:
+
+    Termasuk dalam Single inheritance karna hanya memiliki satu parent class atau super class saja.
+
+
+### Percobaan 6
+
+![screenshot](img/Screenshot_16.png)
+
+Contoh kode program pada class StaffTetap1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan6/StaffTetap1841720121Ray.java)
+
+
+Contoh kode program pada class StaffHarian1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan6/StaffHarian1841720121Ray.java)
+
+Contoh kode program pada main class Inheritance11841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan6/Inheritance11841720121Ray.java)
 
 ## Pernyataan Diri
 
