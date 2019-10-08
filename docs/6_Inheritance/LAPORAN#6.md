@@ -243,6 +243,65 @@ Contoh kode program pada class StaffHarian1841720121Ray.java : [ini link ke kode
 
 Contoh kode program pada main class Inheritance11841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan6/Inheritance11841720121Ray.java)
 
+### Pertanyaan
+
+1. Berdasarkan class diatas manakah yang termasuk single inheritance dan mana yang termasuk multilevel inheritance?
+
+    Jawab:
+
+    Yang merupakan single inheritance adalah class Karyawan1841720121Ray yang mewariskan kepada Manager1841720121Ray dan juga Staff1841720121Ray sedabgkan yang merupakan multilevel inheritance adalah keseluruhan mulai dari Karyawan1841720121Ray menurunkan pada kedua sublcass dan subclass yang bernama Staff1841720121Ray menurunkan kepada dua class yaitu StaffTetap1841720121Ray dan StaffHarian1841720121Ray.
+
+2. Perhatikan kode program class StaffTetap1841720121Ray dan StaffHarian1841720121Ray, atribut apa saja yang dimiliki oleh class tersebut? Sebutkan atribut mana saja yang diwarisi dari class Staff!	
+  
+    Jawab:
+
+    Atribut yang terdapat pada StaffTetap1841720121Ray adalah golongan dengan tipe data String dan asuransi dengan tipe data integer, sedangkan apa saja yang diwarisi dari class Staff1841720121Ray adalah atribut bernama lembur dengan tipe data integer dan golongan dengan tipe data integer serta semua atribut yang ada pada class karyawan1841720121Ray.
+
+3. Apakah fungsi potongan program berikut pada class StaffHarian1841720121Ray
+
+    ![contoh screenshot](img/Screenshot_17.png)   
+
+    Jawab:
+
+    Memanggil konstruktor class dari parent class, yaitu Staff1841720121Ray.
+
+4. Apakah fungsi potongan program berikut pada class StaffHarian
+
+    ![contoh screenshot](img/Screenshot_18.png)
+
+    Jawab:
+
+    Memanggil method tampil pada class Staff1841720121Ray.
+
+5. Perhatikan kode program dibawah ini yang terdapat pada class	StaffTetap
+
+    ![contoh screenshot](img/Screenshot_19.png)
+
+    Terlihat dipotongan program diatas atribut gaji, lembur dan potongan dapat diakses langsung. Kenapa hal ini bisa terjadi dan bagaimana class StaffTetap memiliki atribut gaji, lembur, dan potongan padahal dalam class tersebut tidak dideklarasikan atribut gaji, lembur, dan potongan?
+
+    Jawab:
+
+    Bisa, karena StaffTetap1841720121Ray adalah sub class dari class Staff1841720121Ray yang memiliki atribut tersebut.
+
+
+## Tugas
+
+Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung). 
+ 
+![screenshot](img/Screenshot_20.png)
+
+Contoh kode program pada class Komputer1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Tugas/Komputer1841720121Ray.java)
+
+Contoh kode program pada class Leptop1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Tugas/Leptop1841720121Ray.java)
+
+Contoh kode program pada class Pc1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Tugas/Pc1841720121Ray.java)
+
+Contoh kode program pada class Mac1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Tugas/Mac1841720121Ray.java)
+
+Contoh kode program pada class Windows1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Tugas/Windows1841720121Ray.java)
+
+Contoh kode program pada class main Main1841720121Ray.java : [ini link ke kode program](../../src/6_Inheritance/Tugas/Main1841720121Ray.java)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
