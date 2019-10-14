@@ -67,6 +67,27 @@ Jawaban :
 
 method swim dimiliki kelas ikan (Parent)dan kelas ikan piranha(child) mengganti output yang lebih spesifik yaitu ikan piranha bisa makan daging.
 
+### Tugas
+
+1. Overloading 
+
+Implementasikan konsep overloading pada class diagram dibawah ini : 
+
+![contoh screenshot](img/Screenshot_10.png)
+
+Jawaban :
+
+![contoh screenshot](img/Screenshot_12.png)
+
+Contoh kode program pada class Segitiga1841720121Ray.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas1/Segitiga1841720121Ray.java)
+
+2.  Overriding 
+
+Implementasikan class diagram dibawah ini dengan menggunakan teknik dynamic method dispatch : 
+
+![contoh screenshot](img/Screenshot_11.png)
+
+Jawaban :
 
 ## Pernyataan Diri
 
