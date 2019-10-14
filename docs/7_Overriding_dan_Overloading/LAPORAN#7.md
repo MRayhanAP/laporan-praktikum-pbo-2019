@@ -36,9 +36,36 @@ Contoh kode program pada class Manager1841720121Ray.java : [ini link ke kode pro
 
 Contoh kode program pada main class Utama1841720121Ray.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Percobaan1/Utama1841720121Ray.java)
 
+### Latihan
+
+![contoh screenshot](img/Screenshot_6.png)
+
+1. Dari source coding diatas terletak dimanakah overloading? 
+
+Jawaban :
+
+![contoh screenshot](img/Screenshot_7.png)
+
+2. Jika terdapat overloading ada berapa jumlah parameter yang berbeda? 
+
+Jawaban :
+
+2 paramater dari int diubah menjadi double jadi parameter yang berbeda ada 2.
 
 
+![contoh screenshot](img/Screenshot_8.png)
 
+3. Dari source coding diatas terletak dimanakah overloading? 
+
+Jawaban :
+
+![contoh screenshot](img/Screenshot_9.png)
+
+4. Jika terdapat overloading ada berapa tipe parameter yang berbeda? 
+
+Jawaban :
+
+method swim dimiliki kelas ikan (Parent)dan kelas ikan piranha(child) mengganti output yang lebih spesifik yaitu ikan piranha bisa makan daging.
 
 
 ## Pernyataan Diri
