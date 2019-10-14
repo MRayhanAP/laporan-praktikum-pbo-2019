@@ -89,6 +89,16 @@ Implementasikan class diagram dibawah ini dengan menggunakan teknik dynamic meth
 
 Jawaban :
 
+![contoh screenshot](img/Screenshot_13.png)
+
+Contoh kode program pada class Manusia1841720121Ray.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas2/Manusia1841720121Ray.java)
+
+Contoh kode program pada class Mahasiswa1841720121Ray.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas2/Mahasiswa1841720121Ray.java)
+
+Contoh kode program pada class Dosen1841720121Ray.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas2/Dosen1841720121Ray.java)
+
+Contoh kode program pada mian class Main1841720121Ray.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas2/Main1841720121Ray.java)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
