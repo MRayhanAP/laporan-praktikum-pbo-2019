@@ -28,3 +28,52 @@ Kode program pada Percobaan 1 :
 [Orang1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan1/Orang1841720121Ray.java)
 
 [Program1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan1/Program1841720121Ray.java)
+
+### Pertanyaan
+
+Bolehkah apabila sebuah class yang meng-extend suatu abstract class tidak mengimplementasikan method abstract yang ada di class induknya? Buktikan! 
+
+Jawaban : 
+
+Tidak, karena abstrak class harus di implementasikan dengan cara override. 
+Jadi metode Lulus tidak diimplementasikan sehingga abstrak class error.
+
+### Percobaan 2
+
+![contoh screenshot](img/Screenshot_2.png)
+
+Kode program pada Percobaan 2 : 
+
+[ICumlaude1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan2/ICumlaude1841720121Ray.java)
+
+[Mahasiswa1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan2/Mahasiswa1841720121Ray.java)
+
+[PascaSarjana1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan2/PascaSarjana1841720121Ray.java)
+
+[Rektor1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan2/Rektor1841720121Ray.java)
+
+[Sarjana1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan2/Sarjana1841720121Ray.java)
+
+[Program1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan2/Program1841720121Ray.java)
+
+### Pertanyaan
+
+1. Mengapa pada langkah nomor 9 terjadi error? Jelaskan! 
+2. Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian? 
+3. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian? 
+4. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini: 
+![contoh screenshot](img/Screenshot_3.png)
+
+Jawaban
+
+1. Karena Mahasiswa biasa Tidak memenuhi syarat yang telah untuk mendapat sertifikat cumlaude.
+
+2. Ya Bisa, Karena dipanggil secara manual
+
+![contoh screenshot](img/Screenshot_4.png)
+
+3. Ya Bisa, Dengan cara menambahkan abstrak class kuliah dikampus dan di override pada class sarjana dan pascasarjana.
+
+4. 
+
+![contoh screenshot](img/Screenshot_5.png) 
