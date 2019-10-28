@@ -64,7 +64,7 @@ Kode program pada Percobaan 2 :
 4. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini: 
 ![contoh screenshot](img/Screenshot_3.png)
 
-Jawaban
+Jawaban : 
 
 1. Karena Mahasiswa biasa Tidak memenuhi syarat yang telah untuk mendapat sertifikat cumlaude.
 
@@ -77,3 +77,50 @@ Jawaban
 4. 
 
 ![contoh screenshot](img/Screenshot_5.png) 
+
+### Percobaan 3
+
+![contoh screenshot](img/Screenshot_6.png)
+
+Kode program pada Percobaan 3 : 
+
+[ICumlaude1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/ICumlaude1841720121Ray.java)
+
+[Mahasiswa1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/Mahasiswa1841720121Ray.java)
+
+[PascaSarjana1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/PascaSarjana1841720121Ray.java)
+
+[Rektor1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/Rektor1841720121Ray.java)
+
+[Sarjana1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/Sarjana1841720121Ray.java)
+
+[Program1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/Program1841720121Ray.java)
+
+[IBerprestasi1841720121Ray.java](../../src/9_Abstract_Class_dan_Interface/Percobaan3/IBerprestasi1841720121Ray.java)
+
+### Pertanyaan
+
+Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat mawapres pada objek sarjanaCumlaude.
+
+Jawaban :
+
+pada class sarjana dilakunan implementasi abstraksi dengan cara override.
+
+
+![contoh screenshot](img/Screenshot_6.png)
+
+## Kesimpulan
+
+1. Melakukan Implementasi interface
+2. Melakukan implementasi class Abstraksi
+3. Melakukan Implementasi Multiple Interfaces Implementation
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***Muhammad Rayhan Akbar Putra***
