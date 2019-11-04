@@ -80,3 +80,28 @@ Kode program pada Percobaan 2 :
 
 ### Percobaan 3
 
+![contoh screenshot](img/Screenshot_3.png)
+
+# Sudah diperbaiki 
+
+![contoh screenshot](img/Screenshot_4.png)
+
+Kode program pada Percobaan 3 : 
+
+[Tester31841720121Ray.java](../../src/10_Polimorfisme/Percobaan3/Tester31841720121Ray.java)
+
+### Pertanyaan
+
+1. Perhatikan array e pada baris ke-8, mengapa ia bisa diisi dengan objek-objek dengan tipe yang berbeda, yaitu objek pEmp (objek dari PermanentEmployee) dan objek iEmp (objek dari InternshipEmployee) ? 
+2. Perhatikan juga baris ke-9, mengapa array p juga biisi dengan objekobjek dengan tipe yang berbeda, yaitu objek pEmp (objek dari PermanentEmployee) dan objek eBill (objek dari ElectricityBilling) ? 
+3. Perhatikan baris ke-10, mengapa terjadi error? 
+
+### Jawaban
+
+1. karena objek pEmp dan iEmp merupakan object dari class yang merupakan turunan dari class Employee.
+
+2. Karena objek pEmp dan eBill merupakan object dari class yang mengimplements dari class Payable.
+
+3. Karena eBill bukan termasuk Class turunan dari Class Employee. 
+
+### Percobaan 4
