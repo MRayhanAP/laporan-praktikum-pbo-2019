@@ -143,3 +143,41 @@ ElectricityBill dan pEmp merupakan objek dari PermanentEmployee?
 
 ### Tugas
 
+![contoh screenshot](img/Screenshot_8.png)
+
+[Barrier1841720121Ray.java](../../src/10_Polimorfisme/Tugas/Barrier1841720121Ray.java)
+
+[Destroyable1841720121Ray.java](../../src/10_Polimorfisme/Tugas/Destroyable1841720121Ray.java)
+
+[JumpingZombie1841720121Ray.java](../../src/10_Polimorfisme/Tugas/JumpingZombie1841720121Ray.java)
+
+[Main1841720121Ray.java](../../src/10_Polimorfisme/Tugas/Main1841720121Ray.java)
+
+[Plant1841720121Ray.java](../../src/10_Polimorfisme/Tugas/Plant1841720121Ray.java)
+
+[WalkingZombie1841720121Ray.java](../../src/10_Polimorfisme/Tugas/WalkingZombie1841720121Ray.java)
+
+[Zombie1841720121Ray.java](../../src/10_Polimorfisme/Tugas/Zombie1841720121Ray.java)
+
+
+## Kesimpulan
+
+1. Kita dapat memahami konsep dan bentuk dasar polimorfisme
+
+2. Kita dapat memahami konsep virtual method invication
+
+3. Kita dapat menerapkan polimorfisme pada pembuatan heterogeneous collection
+
+4. Kita dapat menerapkan polimorfisme pada parameter/argument method
+
+5. Kita dapat menerapkan object casting untuk meng-ubah bentuk objek
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Muhammad Rayhan Akbar Putra)***
