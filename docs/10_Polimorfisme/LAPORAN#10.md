@@ -56,3 +56,27 @@ Kode program pada Percobaan 1 :
 
 6. Polimorfisme bisa diterapkan pada class-class yang memiliki relasi inheritance dan interface. Ketika ada objek yang dideklarasikan dari suatu interface, maka ia bisa digunakan untuk mereferensikan ke objek yang mengimplements class interface tersebut.
 
+### Percobaan 2
+
+![contoh screenshot](img/Screenshot_2.png)
+
+Kode program pada Percobaan 2 : 
+
+[Tester21841720121Ray.java](../../src/10_Polimorfisme/Percobaan2/Tester21841720121Ray.java)
+
+### Pertanyaan
+
+1. Perhatikan class Tester2 di atas, mengapa pemanggilan e.getEmployeeInfo() pada baris 8 dan pEmp.getEmployeeInfo() pada baris 10 menghasilkan hasil sama?  
+2. Mengapa pemanggilan method e.getEmployeeInfo() disebut sebagai pemanggilan method virtual (virtual method invication), sedangkan pEmp.getEmployeeInfo() tidak? 
+3. Jadi apakah yang dimaksud dari virtual method invocation? Mengapa disebut virtual?
+
+### Jawaban
+
+1. Karena e dan pEmp sama – sama instan dari PermanentEmployee1841720121Ray.
+
+2. Karena objek pEmp dan eBill merupakan object dari class yang mengimplements dari class Payable1841720121Ray.
+
+3. Virtual method invocation terjadi ketika ada pemanggilan overriding method dari suatu objek polimorfisme. Disebut virtual karena antara method yang dikenali oleh compiler dan method yang dijalankan oleh JVM berbeda.
+
+### Percobaan 3
+
