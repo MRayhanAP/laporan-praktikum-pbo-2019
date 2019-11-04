@@ -80,7 +80,7 @@ Kode program pada Percobaan 2 :
 
 ### Percobaan 3
 
-![contoh screenshot](img/Screenshot_3.png)
+![contoh screenshot](img/Screenshot_5.png)
 
 # Sudah diperbaiki 
 
