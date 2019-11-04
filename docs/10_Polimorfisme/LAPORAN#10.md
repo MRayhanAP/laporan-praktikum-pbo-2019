@@ -105,3 +105,41 @@ Kode program pada Percobaan 3 :
 3. Karena eBill bukan termasuk Class turunan dari Class Employee. 
 
 ### Percobaan 4
+
+![contoh screenshot](img/Screenshot_6.png)
+
+Kode program pada Percobaan 4 : 
+
+[Owner1841720121Ray.java](../../src/10_Polimorfisme/Percobaan4/Owner1841720121Ray.java)
+
+[Tester41841720121Ray.java](../../src/10_Polimorfisme/Percobaan4/Tester41841720121Ray.java)
+
+### Pertanyaan
+
+1. Perhatikan class Tester4 baris ke-7 dan baris ke-11, mengapa pemanggilan ow.pay(eBill) dan ow.pay(pEmp) bisa dilakukan, padahal jika diperhatikan method pay() yang ada di dalam class Owner memiliki argument/parameter bertipe Payable? Jika diperhatikan lebih detil eBill merupakan objek dari 
+ElectricityBill dan pEmp merupakan objek dari PermanentEmployee?
+
+2. Jadi apakah tujuan membuat argument bertipe Payable pada method pay() yang ada di dalam class Owner? 
+
+3. Coba pada baris terakhir method main() yang ada di dalam class Tester4 ditambahkan perintah ow.pay(iEmp); 
+
+![contoh screenshot](img/Screenshot_7.png)
+
+4. Perhatikan class Owner, diperlukan untuk apakah sintaks p instanceof ElectricityBill pada baris ke-6 ? 
+
+5. Perhatikan kembali class Owner baris ke-7, untuk apakah casting objek disana (ElectricityBill eb = (ElectricityBill) p) diperlukan ? Mengapa objek p yang bertipe Payable harus di-casting ke dalam objek eb yang bertipe ElectricityBill ?
+
+### Jawaban
+
+1. Karena keduanya sama – sama mengimplementasikan interface Payable1841720121Ray
+
+2. Untuk memanggil method getPaymentAmountRay di masing – masing objek, serta mengcasting objek p menjadi objek sesungguhnya lalu memanggil suatu method yang hanya ada di class sesungguhnya.
+
+3. Eror karena iEmp tidak mengimplements class Payable.
+
+4. Untuk mengecek apakah object yang dimasukkan sebagai implements dari Payable atau tidak.
+
+5. Untuk dikembalikan ke instan sesungguhnya sehingga dapat memanggil method getBillInfoRay() yang hanya ada di class ElectricityBill1841720121Ray.
+
+### Tugas
+
