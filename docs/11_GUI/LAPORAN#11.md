@@ -136,3 +136,20 @@ Kode program pada Percobaan 1 :
 
 [Swing21841720121Ray.java](../../src/11_GUI/pertanyaan/Swing21841720121Ray.java)
 
+### Tugas
+
+![contoh screenshot](img/Screenshot_13.png)
+
+[Tugas1841720121Ray.form](../../src/11_GUI/Tugas/Tugas1841720121Ray.form)
+
+[Tugas1841720121Ray.java](../../src/11_GUI/Tugas/Tugas1841720121Ray.java)
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Muhammad Rayhan Akbar Putra)***
