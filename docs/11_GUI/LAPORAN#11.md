@@ -39,3 +39,37 @@ Kode program pada Percobaan 1 :
 
 ### Percobaan 3 - Manajemen Layout
 
+![contoh screenshot](img/Screenshot_4.png)
+
+![contoh screenshot](img/Screenshot_5.png)
+
+[Border1841720121Ray.java](../../src/11_GUI/ManajemenLayout/Border1841720121Ray.java)
+
+[Box1841720121Ray.java](../../src/11_GUI/ManajemenLayout/Box1841720121Ray.java)
+
+[Grid1841720121Ray.java](../../src/11_GUI/ManajemenLayout/Grid1841720121Ray.java)
+
+[LayoutGUI1841720121Ray.java](../../src/11_GUI/ManajemenLayout/LayoutGUI1841720121Ray.java)
+
+### Pertanyaan
+
+1. Apa perbedaan dari Grid Layout, Box Layout dan Border Layout? 
+2. Apakah fungsi dari masing-masing kode berikut? 
+
+![contoh screenshot](img/Screenshot_6.png)
+
+### Jawaban
+
+1. 
+>Border layout menyusun komponen ke lima bagian yaitu: NORTH, SOUTH, EAST,WEST, and CENTER. Masing - masing bagian ini dapat menampung lebih dari satu komponen
+
+>Grid layout menempatkan komponen dalam bentuk “rectangular grid” dan membaginya ke ukuran yang sama dalam bentuk kotak dan masing masing komponen di letakkan pada satu kotak
+
+>Box layout menempatkan komponen dalam satu baris atau satu kolom berbentuk box
+2. 
+>Proses Inisiasi setiap objek yang akan membuat setiap frame layout.
+
+>setDefaultCloseOperation digunakan untuk perintah Program akan berhenti jika ditutup.
+
+>SetVisible digunakan untuk menampilkan frame jika di set true;
+
