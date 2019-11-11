@@ -107,3 +107,32 @@ Kode program pada Percobaan 1 :
 
 [Swing1841720121Ray.java](../../src/11_GUI/pertanyaan/Swing1841720121Ray.java)
 
+### Percobaan 5 - JTabPane, JTtree, JTable
+
+![contoh screenshot](img/Screenshot_11.png)
+
+[Swing21841720121Ray.form](../../src/11_GUI/percobaanGUI2/Swing21841720121Ray.form)
+
+[Swing21841720121Ray.java](../../src/11_GUI/percobaanGUI2/Swing21841720121Ray.java)
+
+### Pertanyaan 
+
+1. Apa kegunaan komponen swing JTabPane, JTtree, pada percobaan 5? 
+
+2. Modifikasi program untuk menambahkan komponen JTable pada tab Halaman 1 dan tab Halaman 2 
+
+### Jawaban
+
+1. 
+>Fungsi komponen swing JTabpane digunakan untuk membuat panel yang menyediakan tab yang bisa membuat sekaligus beberapa halaman di satu panel.
+
+>Fungsi komponen swing Jtree untuk menampilkan data dengan hirarki properti dengan menambahkan node ke node dan menyimpan konsep induk dan anak node.
+
+2. 
+
+![contoh screenshot](img/Screenshot_12.png)
+
+[Swing21841720121Ray.form](../../src/11_GUI/pertanyaan/Swing21841720121Ray.form)
+
+[Swing21841720121Ray.java](../../src/11_GUI/pertanyaan/Swing21841720121Ray.java)
+
