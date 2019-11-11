@@ -73,3 +73,37 @@ Kode program pada Percobaan 1 :
 
 >SetVisible digunakan untuk menampilkan frame jika di set true;
 
+### Percobaan 4 - Membuat GUI Melalui IDE Netbeans
+
+![contoh screenshot](img/Screenshot_7.png)
+
+![contoh screenshot](img/Screenshot_8.png)
+
+[Swing1841720121Ray.form](../../src/11_GUI/percobaanGUI/Swing1841720121Ray.form)
+
+[Swing1841720121Ray.java](../../src/11_GUI/percobaanGUI/Swing1841720121Ray.java)
+
+### Pertanyaan 
+
+1. Apakah fungsi dari kode berikut? 
+
+![contoh screenshot](img/Screenshot_9.png)
+
+2. Mengapa pada bagian logika checkbox dan radio button digunakan multiple if ? 
+
+3.  Lakukan modifikasi pada program untuk melakukan menambahkan inputan berupa alamat dan berikan fungsi pemeriksaan pada nilai Alamat tersebut jika belum diisi dengan menampilkan pesan peringatan 
+
+### Jawaban
+
+1. Koding tersebut untuk menjalankan atau membuat dan menampilkan form.
+
+2. dikarenakan kita membuat kondisi di setiap variable di checkbox dan radio button.
+
+3. 
+
+![contoh screenshot](img/Screenshot_10.png)
+
+[Swing1841720121Ray.form](../../src/11_GUI/pertanyaan/Swing1841720121Ray.form)
+
+[Swing1841720121Ray.java](../../src/11_GUI/pertanyaan/Swing1841720121Ray.java)
+
