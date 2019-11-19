@@ -40,15 +40,21 @@ Kode program pada Percobaan 1 :
 
 ### Jawaban
 
-1. 
+1. import java.util.*; fungsinya: mengimpor semua kelas di dalam java.
 
 2. 
 
-3. 
+![contoh screenshot](img/Screenshot_9.png)
 
-4. 
+3. Untuk mengisi data index pada array
 
-5. 
+4. Terjadi error Karena dalam pengisian data membutuhkan objek
+
+![contoh screenshot](img/Screenshot_10.png)
+
+5. Iterator digunakan untuk mengakses dan menampilkan nilai beserta tambahan method lain yang didefinisikan di dalam interface Iterator.
+Kode tersebut juga digunakan untuk menampilkan nilai dengan lower case
+
 
 ### Percobaan 2 - List
 
@@ -72,11 +78,15 @@ Kode program pada Percobaan 2 :
 
 ### Jawaban
 
-1. 
+1. untuk menampilkan data berupa string dimana sesuai pada indeks array yang dipanggil
 
 2. 
 
-3. 
+![contoh screenshot](img/Screenshot_11.png)
+
+[CobaArrayList1841720121Ray.java](../../src/12_Java_API/Pertanyaan/CobaArrayList1841720121Ray.java)
+
+3. pada soal no 1 pemanggilan data menggunakan inputan indeks array, sedangkan pada soal no 2 menggunakan iterasi, dimana jika ada data maka akan ditampilkan secara berurutan, jika tidak ada, makan proses iterasi berhenti
 
 ### Percobaan 3 - Map
 
@@ -106,21 +116,35 @@ Kode program pada Percobaan 3 :
 
 ### Jawaban
 
-1. 
+1. Mengisi map dengan pasangan kunci dan nilai. Kedua-dua kunci dan nilai bisa berupa objek apa saja. Jika map tersebut telah memiliki kunci maka nilai yang ditunjuk akan diganti dengan yang baru diberikan. Perintah ini mirip dengan “A[kunci] = nilai” pada array.
 
-2. 
+2. Untuk mengembalikan int yang berisi jumlah pasangan asosiasi pada map
 
-3. 
+3. untuk menghapus kunci beserta nilai yang ditunjuknya, atau dengan kata lain menghapus pasangan kunci dan nilai pada map sekaligus
 
-4. 
+4. menghapus semua pasangan asosiasi dalam map.
 
 5. 
 
+![contoh screenshot](img/Screenshot_13.png)
+
 6. 
 
-7. 
+![contoh screenshot](img/Screenshot_12.png)
+
+[DemoHashMap1841720121Ray.java](../../src/12_Java_API/Pertanyaan/DemoHashMap1841720121Ray.java)
+
+7. Kode program diatas mIterator digunakan untuk menampilkan element pada collection. Yang mana mCollection tersebut mengambil value dari hMapItem.
 
 ### Percobaan 4 - Implementasi ArrayList dalam GUI
 
+![contoh screenshot](img/Screenshot_14.png)
 
+[InputData1841720121Ray.java](../../src/12_Java_API/Percobaan4/InputData1841720121Ray.java)
+
+[Mahasiswa1841720121Ray.java](../../src/12_Java_API/Percobaan4/Mahasiswa1841720121Ray.java)
+
+[TampilGui1841720121Ray.form](../../src/12_Java_API/Percobaan4/TampilGui1841720121Ray.form)
+
+[TampilGui1841720121Ray.java](../../src/12_Java_API/Percobaan4/TampilGui1841720121Ray.java)
 
