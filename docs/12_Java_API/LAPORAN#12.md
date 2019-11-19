@@ -10,7 +10,12 @@
 
 ## Ringkasan Materi
 
-> 
+> Set mengikuti model himpunan, dimana objek/anggota yang tersimpan dalam Set harus unik. Urutan maupun letak dari anggota tidak penting, hanya keberadaan anggota saja yang penting.
+
+>Perbedaaan mendasar map dengan collection yang lain, untuk menyimpan objek pada Map, perlu sepasang objek, yaitu key yang bersifat unik dan nilai yang disimpan. Untuk mengakses nilai tersebut maka kita perlu mengetahui key dari nilai tersebut. Map juga dikenal sebagai dictionary/kamus. Pada saat menggunakan kamus, perlu suatu kata yang digunakan untuk pencarian.
+
+>List digunakan untuk menyimpan sekumpulan objek berdasarkan urutan masuk (ordered) dan menerima duplikat. Cara penyimpanannya seperti array, oleh sebab itu memiliki posisi awal dan posisi akhir, menyisipkan objek pada posisi tertentu, mengakses dan menghapus isi list, dimana semua proses ini selalu didasarkan pada urutannya.
+
 
 ## Percobaan
 
@@ -148,3 +153,38 @@ Kode program pada Percobaan 3 :
 
 [TampilGui1841720121Ray.java](../../src/12_Java_API/Percobaan4/TampilGui1841720121Ray.java)
 
+### Percobaan 5 - Aplikasi Biodata
+
+![contoh screenshot](img/Screenshot_15.png)
+
+![contoh screenshot](img/Screenshot_16.png)
+
+[FormKoneksi1841720121Ray.form](../../src/12_Java_API/Percobaan5/FormKoneksi1841720121Ray.form)
+
+[FormKoneksi1841720121Ray.java](../../src/12_Java_API/Percobaan5/FormKoneksi1841720121Ray.java)
+
+### Pertanyaan
+
+1. Setelah menambah code pada action button klik, coba jalankan program dan tambahkan data. Apakah program berhasil menambahkan data? Jika tidak apakah penyebabnya. 
+
+2. Jelaskan maksud source code untuk melakukan insert data diatas? 
+
+3. Jelaskan alur dari method ambil_data_tabel? 
+
+### Jawaban
+
+1. progam berhasil di tambahkan, namun tidak dapat menimpalkan data dikarenakan belum terdapat method untuk menampilkan/mengambil data yang sudah di tambahkan
+
+2. menjalankan method buka_koneksi();, lalu menambahkan typedata String sqlkode yang berisikan perintah untuk menginsertkan apa yang diisikan di text field nama, alamat, telepon ke tabel anggota. lalu mengeksekusi perintah yang ada pada dalam try{}, apabila ada kesalahan / gagal maka yang tereksekusi adalah catch{}
+
+3. Menjalankan method model.getDataVector().removeAllElements(); , model.fireTableDataChanged(); lalu mengeksekusi perintah yang ada pada dalam try{}, apabila ada kesalahan / gagal maka yang tereksekusi adalah catch{}
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Muhammad Rayhan Akbar Putra)***
