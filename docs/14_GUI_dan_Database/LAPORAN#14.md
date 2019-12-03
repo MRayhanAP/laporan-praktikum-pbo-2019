@@ -26,3 +26,9 @@
 ![contoh screenshot](img/Screenshot_3.png)
 
 [DBHelper1841720121Ray.java](../../src/14_GUI_dan_Database/Percobaan3/DBHelper1841720121Ray.java)
+
+### Percobaan 4
+
+![contoh screenshot](img/Screenshot_4.png)
+
+[Kategori1841720121Ray.java](../../src/14_GUI_dan_Database/Percobaan4/Kategori1841720121Ray.java)
